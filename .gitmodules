@@ -1,3 +1,6 @@
 [submodule "submodule-java"]
 	path = submodule-java
 	url = git@github.com:mike-neck/submodule-java.git
+[submodule "submodule-kotlin"]
+	path = submodule-kotlin
+	url = git@github.com:mike-neck/submodule-kotlin.git
