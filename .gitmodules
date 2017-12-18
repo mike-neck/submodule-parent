@@ -1,0 +1,3 @@
+[submodule "submodule-java"]
+	path = submodule-java
+	url = git@github.com:mike-neck/submodule-java.git
